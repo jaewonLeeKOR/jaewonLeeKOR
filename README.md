@@ -26,7 +26,12 @@
 ![Github actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
 
 ##### Cloud
-![Amazone AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazone AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/aws_ec2-FF9900?style=for-the-badge&logo=amazonEc2&logoColor=white)
+![RDS](https://img.shields.io/badge/aws_rds-527FFF?style=for-the-badge&logo=amazonRds&logoColor=white)
+![S3](https://img.shields.io/badge/aws_s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Lambda](https://img.shields.io/badge/aws_lambda-FF9900?style=for-the-badge&logo=awsLambda&logoColor=white)
+![amazonDynamoDB](https://img.shields.io/badge/aws_dynamoDB-4053D6?style=for-the-badge&logo=amazonDynamoDB&logoColor=white)
 
 ##### Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
