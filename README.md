@@ -1,5 +1,5 @@
 # LEE JAE WON
-[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://j-0ne.notion.site/14762edeac1c80ddbc63cd5d2fbb9331?pvs=4)
+[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://j-0ne.notion.site/portfolio)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ghfkddl706)](https://solved.ac/ghfkddl706)
 
 ## 🦾 Skills
