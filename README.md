@@ -45,4 +45,4 @@ Logo images From https://github.com/alexandresanlim/Badges4-README.md-Profile
 &  https://simpleicons.org
 -->
 
-[![Jae Won's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaewonLeeKOR&bg_color=DEG,64b3f4,c2e59c)]()
+[![Jae Won's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaewonLeeKOR&bg_color=DEG,64b3f4,c2e59c&count_private=true&show_icons=true)]()
