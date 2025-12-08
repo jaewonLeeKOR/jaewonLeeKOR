@@ -4,6 +4,8 @@
 [![Portfolio](https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://j-0ne.notion.site/portfolio)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ghfkddl706)](https://solved.ac/ghfkddl706)
 
+[![Jae Won's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaewonLeeKOR&bg_color=DEG,64b3f4,c2e59c&count_private=true&show_icons=true)]()
+
 ## 🦾 Skills
 ##### Languages
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
@@ -63,6 +65,4 @@
 Logo images From https://github.com/alexandresanlim/Badges4-README.md-Profile
 &  https://simpleicons.org
 -->
-
-[![Jae Won's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaewonLeeKOR&bg_color=DEG,64b3f4,c2e59c&count_private=true&show_icons=true)]()
 </div>
