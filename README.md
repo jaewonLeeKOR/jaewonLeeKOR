@@ -1,44 +1,63 @@
+<div align=left>
+
 # LEE JAE WON
-[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://j-0ne.notion.site/portfolio)
+[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://j-0ne.notion.site/portfolio)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ghfkddl706)](https://solved.ac/ghfkddl706)
 
 ## 🦾 Skills
 ##### Languages
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white)](https://github.com/jaewonLeeKOR)
-[![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white)](https://github.com/jaewonLeeKOR)
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/jaewonLeeKOR)
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <br/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 
-##### Frameworks
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)](https://spring.io/projects/spring-boot)
+##### Backend Framework
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
 
-##### Database
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-[![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
+##### Data Middleware
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/> <br/>
+<img src="https://img.shields.io/badge/Redis-%23DD0031?style=flat-square&logo=redis&logoColor=white"/> <br/>
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
 
-##### Deploy Tools
-[![Github actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)](https://docs.github.com/ko/actions)
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+##### Workflow Middleware
+<img src="https://img.shields.io/badge/Github_Actions-F2F4F9?style=flat-square&logo=githubactions&logoColor=367cfe"/>
+<img src="https://img.shields.io/badge/Jenkins-d24939?style=flat-square&logo=jenkins&logoColor=white"/>
+
+##### Deployment
+<img src="https://img.shields.io/badge/ArgoCD-F2F4F9?style=flat-square&logo=argo&logoColor=EF7B4D"/>
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white"/>
 
 ##### Cloud
-[![Amazon AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=&logoColor=white)](https://aws.amazon.com)
-[![EC2](https://img.shields.io/badge/aws_ec2-FF9900?style=for-the-badge&logo=amazonEc2&logoColor=white)](https://aws.amazon.com/ec2)
-[![RDS](https://img.shields.io/badge/aws_rds-527FFF?style=for-the-badge&logo=amazonRds&logoColor=white)](https://aws.amazon.com/rds)
-[![ElastiCache](https://img.shields.io/badge/aws_elasticache-C925D1?style=for-the-badge&logo=amazonElasticache&logoColor=white)](https://aws.amazon.com/elasticache)
-[![SES](https://img.shields.io/badge/aws_ses-DD344C?style=for-the-badge&logo=amazonsimpleemailservice&logoColor=white)](https://aws.amazon.com/ses)
-[![Route 53](https://img.shields.io/badge/aws_route_53-8C4FFF?style=for-the-badge&logo=amazonRoute53&logoColor=white)](https://aws.amazon.com/route53)
-[![CloudFront](https://img.shields.io/badge/aws_cloudfront-7b47d7?style=for-the-badge&logo=amazoncloudfront&logoColor=white)](https://aws.amazon.com/cloudfront)
-[![S3](https://img.shields.io/badge/aws_s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)](https://aws.amazon.com/s3)
+<img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=aws&logoColor=white"/> <br/>
+<img src="https://img.shields.io/badge/Cloudflare-f38020?style=flat-square&logo=cloudflare&logoColor=white"/> <br/>
+
+##### Provisioning
+<img src="https://img.shields.io/badge/helm-0F1689?style=flat-square&logo=helm&logoColor=white"/> <br/>
+<img src="https://img.shields.io/badge/terraform-844FBA?style=flat-square&logo=terraform&logoColor=white"/> <br/>
+<img src="https://img.shields.io/badge/vagrant-1868F2?style=flat-square&logo=vagrant&logoColor=white"/> <br/>
+<img src="https://img.shields.io/badge/ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubespray-3d647f?style=flat-square&logo=kubespray&logoColor=white"/> <br/>
+
+##### Network
+<img src="https://img.shields.io/badge/tailscale-242424?style=flat-square&logo=tailscale&logoColor=white"/> <br/>
 
 ##### Observability
-[![Prometheus](https://img.shields.io/badge/Prometheus-F2F4F9?style=for-the-badge&logo=prometheus&labelColor=F2F4F9)](https://prometheus.io)
-[![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)](https://grafana.com)
-[![Loki](https://img.shields.io/badge/loki-F2F4F9?style=for-the-badge&logo=loki&logoColor=orange&labelColor=F2F4F9)](https://grafana.com/oss/loki)
-[![Fluent-bit](https://img.shields.io/badge/fluent_bit-49BDA5?style=for-the-badge&logo=fluentBit&logoColor=white&labelColor=49BDA5)](https://fluentbit.io)
+<img src="https://img.shields.io/badge/Grafana-F2F4F9?style=flat-square&logo=grafana&logoColor=orange&labelColor=F2F4F9"/> <br/>
+<img src="https://img.shields.io/badge/Prometheus-F2F4F9?style=flat-square&logo=prometheus&labelColor=F2F4F9"/> <br/>
+<img src="https://img.shields.io/badge/loki-F2F4F9?style=flat-square&logo=loki&logoColor=orange&labelColor=F2F4F9"/>
+<img src="https://img.shields.io/badge/fluent_bit-49BDA5?style=flat-square&logo=fluentBit&logoColor=white&labelColor=49BDA5"/> <br/>
+<img src="https://img.shields.io/badge/tempo-F2F4F9?style=flat-square&logo=tempo&logoColor=orange&labelColor=F2F4F9"/>
+<img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white"/>
 
+##### Frontend Framework
+<img src="https://img.shields.io/badge/React-087EA4?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-native-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 
 ##### Design
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 
 <!--
 Logo images From https://github.com/alexandresanlim/Badges4-README.md-Profile
@@ -46,3 +65,4 @@ Logo images From https://github.com/alexandresanlim/Badges4-README.md-Profile
 -->
 
 [![Jae Won's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaewonLeeKOR&bg_color=DEG,64b3f4,c2e59c&count_private=true&show_icons=true)]()
+</div>
