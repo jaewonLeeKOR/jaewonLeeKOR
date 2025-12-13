@@ -6,7 +6,14 @@
 
 [![Jae Won's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaewonLeeKOR&bg_color=DEG,64b3f4,c2e59c&count_private=true&show_icons=true)]()
 
-## 🦾 Skills
+
+<details>
+<summary>
+
+### Tech Stack
+
+</summary>
+
 ##### Languages
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
@@ -60,7 +67,7 @@
 
 ##### Design
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-
+</details>
 <!--
 Logo images From https://github.com/alexandresanlim/Badges4-README.md-Profile
 &  https://simpleicons.org
