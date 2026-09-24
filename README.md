@@ -1,7 +1,6 @@
 <div align=left>
 
 # LEE JAE WON
-[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://j-0ne.notion.site/portfolio)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ghfkddl706)](https://solved.ac/ghfkddl706)
 
 [![Jae Won's GitHub stats](https://github-readme-stats-delta-two-74.vercel.app/api?username=jaewonLeeKOR&count_private=true&show_icons=true)]()
